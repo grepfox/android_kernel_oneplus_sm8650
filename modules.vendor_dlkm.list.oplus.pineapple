@@ -24,6 +24,7 @@ oplus_bsp_synaptics_tcm2.ko
 oplus_bsp_tp_common.ko
 oplus_bsp_tp_custom.ko
 oplus_bsp_tp_focal_common.ko
+oplus_bsp_tp_ft3419u.ko
 oplus_bsp_tp_ft3518.ko
 oplus_bsp_tp_ft3658u_spi.ko
 oplus_bsp_tp_ft3681.ko
@@ -38,6 +39,7 @@ oplus_bsp_tp_notify.ko
 oplus_bsp_tp_novatek_common.ko
 oplus_bsp_tp_nt36528_noflash.ko
 oplus_bsp_tp_nt36532_noflash.ko
+oplus_bsp_tp_nt36536_noflash.ko
 oplus_bsp_tp_nt36672c_noflash.ko
 oplus_bsp_tp_syna_common.ko
 oplus_bsp_tp_tcm_S3908.ko
